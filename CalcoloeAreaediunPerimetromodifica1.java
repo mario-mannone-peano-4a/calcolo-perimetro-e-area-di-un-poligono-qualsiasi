@@ -24,7 +24,7 @@ public class CalcoloeAreaediunPerimetromodifica1 {
             case 'p':return (b+h)*2;
             case 'a': return b*h;
             default:return 0;
-            //Aggiungo commento per poi toglierlo
+          
         }
     }  
 }
