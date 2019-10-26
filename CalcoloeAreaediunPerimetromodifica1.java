@@ -1,7 +1,7 @@
-package Calcoloeareadiunperimetromodifica1;
+package CalcoloeAreaediunPerimetromodifica1;
 
         import java.util.Scanner;
-public class Calcoloeareadiunperimetromodifica1 {
+public class CalcoloeAreaediunPerimetromodifica1 {
 
     /**
      * @param args the command line arguments
